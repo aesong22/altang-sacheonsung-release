@@ -1,6 +1,6 @@
 [
   {
-    "id": "stage-001", "name": "1. 첫걸음", "rows": 6, "cols": 12, "kinds": 8, "seed": 1017
+    "id": "stage-001", "name": "1. 첫걸음", "rows": 6, "cols": 8, "kinds": 6, "seed": 1017
   },
   {
     "id": "stage-002", "name": "2. 구멍", "rows": 6, "cols": 12, "kinds": 9, "seed": 2043,
